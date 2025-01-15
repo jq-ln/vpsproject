@@ -3,7 +3,7 @@ import './App.css';
 
 const Logo = () => {
   const logo = logoText
-
+  // testing
   return (
     <div className="logo">
       <pre>{logo}</pre>
